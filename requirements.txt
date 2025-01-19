@@ -1,0 +1,13 @@
+pandas
+numpy
+plotly
+notebook
+ipywidgets
+scipy
+dplython
+seaborn
+matplotlib
+networkx
+statsmodels
+prince==0.7.1
+patsy
